@@ -1,5 +1,16 @@
 # DS_Automation_Level 2
 
-# Instructions
-Clone this branch and send your changes zipped via email. 
-Please don’t commit changes or fork branch directly on GitHub
+
+## Instructions
+
++ Clone the Solution locally
++ Open The Solution in VS
++ Build the Solution/Restore Nuget packages
++ Execute/Debug Tests
+
+
+Please send the completed assesment via Zip
+Please don’t **commit changes or fork** branch directly on GitHub
+
+
+
